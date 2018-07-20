@@ -15,4 +15,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_natrium.mk \
-    $(LOCAL_DIR)/carbon_oneplus3.mk
+    $(LOCAL_DIR)/carbon_natrium.mk
